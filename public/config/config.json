@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA922CCaD4a22F37Fb279a4D6ab01059D3718eD5A",
+  "SCAN_LINK": "https://polygonscan.com/address/0xA922CCaD4a22F37Fb279a4D6ab01059D3718eD5A",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Katzy Gang",
+  "SYMBOL": "Katzy",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/katzy-gang",
+  "SHOW_BACKGROUND": true
+}
